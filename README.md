@@ -1,16 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Justin. I'm currently in ASU for UX and I'm hoping to get back into the airline field with the degree after graduation. I enjoy the satisfaction of building a neat & organized code page (when possible). Current hobby: watch collection ⌚
 
-<!--
-**jajasteen/jajasteen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... UX degree in ASU
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on ... UX degree in ASU
+- 🌱 I’m currently learning ... new things
+- 💬 Ask me about ... what my newest hobby is 😁
 - 📫 How to reach me: [...](https://www.behance.net/jagcreated?locale=en_US) 
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...
+
 -->
